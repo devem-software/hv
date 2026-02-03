@@ -1,0 +1,10 @@
+{
+  "name": "Tu Nombre",
+  "title": "Título de la Página",
+  "description": "Descripción de la página",
+  "email": "tu-email@example.com",
+  "phone": "123-456-7890",
+  "experience": "Tu experiencia laboral",
+  "education": "Tu educación",
+  "skills": "Tus habilidades"
+}
