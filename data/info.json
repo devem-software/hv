@@ -1,0 +1,172 @@
+{
+  "version": "1.0.0",
+  "schema": "./info.json",
+  "info": {
+    "personal": {
+      "image": "./assets/efmb.png",
+      "name": "Edwin Fernando Marroquin Bustos",
+      "profession": "Tecnologo en construcciones civiles",
+      "id": "CC 80250114",
+      "phone": 3142670224,
+      "email": "marrokin2@gmail.com",
+      "address": "TV 96 # 93 07 sur - Ciudadela la Marlene - La Alegria III "
+    },
+    "habilities": [
+      { "name": "sinco-adpro", "level": "0.7" },
+      { "name": "excel", "level": "0.9" },
+      { "name": "vba", "level": "0.8" },
+      { "name": "autocad 2d", "level": "0.7" },
+      { "name": "python", "level": "0.8" },
+      { "name": "javascript", "level": "0.8" },
+      { "name": "project", "level": "0.7" },
+      { "name": "etabs/sap2000", "level": "0.6" }
+    ],
+    "education": [
+      {
+        "program": "Tecnologia en construcciones civiles",
+        "institution": "Universidad Distrital Francisco Jose de Caldas",
+        "year": 2011
+      },
+      {
+        "program": "Ingenieria Civil",
+        "institution": "Universidad Distrital Francisco Jose de Caldas",
+        "year": "En curso"
+      },
+      {
+        "program": "Diplomado en programacion",
+        "institution": "Universidad del Norte",
+        "year": 2021
+      }
+    ],
+    "summary": [
+      "Tecnólogo en Construcciones Civiles con más de 10 años de experiencia en interventoría, supervisión de obra, cálculo de cantidades, control de almacén y optimización de procesos mediante automatización. ",
+      "Combinación de técnica en obra con habilidades analíticas e informáticas orientadas a mejorar trazabilidad, tiempos y costos. "
+    ],
+    "achievements": [
+      {
+        "icon": "arrow-down-box",
+        "value": "50%",
+        "description": "Reduccion en tiempos de produccion de informes usando automatizacion en Excel y VBA"
+      },
+      {
+        "icon": "calendar-plus",
+        "value": "7 años",
+        "description": "Experiencia especializada en SINCO–ADPRO para obras horizontales."
+      },
+      {
+        "icon": "home-city",
+        "value": "VIS/VIP",
+        "description": "Control y supervisión en proyectos de vivienda, sótanos y urbanismo."
+      },
+      {
+        "icon": "auto-mode",
+        "value": "Automatización",
+        "description": "Creación de formatos y reportes que mejoraron trazabilidad y consistencia."
+      }
+    ],
+    "works": [
+      {
+        "id": 1,
+        "company": "Marval S.A.S.",
+        "title": "Inspector de Obra",
+        "period": "2022 – Actualidad",
+        "location": "Ciudad La Salle, Zentral – Zuri",
+        "city": "Bogotá",
+        "summary": "Inspeccion de actividades, validacion de procesos y control de la calidad en los procesos construcctivos de los diferentes frentes de obra",
+        "responsibilities": [
+          "Gestion de personal a cargo",
+          "Validacion en la ejecucion de actividades contractuales",
+          "Inspeccion en la calidad de materiales usados en cada actividad",
+          "Control en los procesos constructivos, siquiendo los lineamiento de diseño",
+          "Cálculo de cantidades y verificación contractual.",
+          "Elaboracion de informes técnicos solicitados."
+        ],
+        "projects": [
+          "Ciudad la Salle – Loira: VIS/VIP",
+          "Zentral – Zuri: Zonas comunes y sotanos multinivel"
+        ],
+        "achievements": [
+          "Supervicion en la construccion de parqueaderos, sotanos",
+          "Supervicion en la construccion de edificaciones mayores a 15 pisos",
+          "Supervisión de múltiples frentes de obra simultáneos",
+          "Implementación de controles de calidad rigurosos",
+          "Optimización de procesos de reporte"
+        ]
+      },
+      {
+        "id": 2,
+        "company": "AC2R Ingeniería y Proyectos S.A.S.",
+        "title": "Inspector de Interventoría",
+        "period": "2021 – 2022",
+        "location": "Red de colegios distritales",
+        "city": "Bogotá",
+        "summary": "Control de la informacion de las actividades realizadas en mas de 450 locaciones de las instituciones educativas del distrito.",
+        "responsibilities": [
+          "Verificación de procedimientos constructivos y control de calidad.",
+          "Implementación de formatos para automatización de informes (reducción de 50% en tiempos).",
+          "Análisis de datos de obra para toma de decisiones.",
+          "Generarion de informes diarios, semanales y mensuales"
+        ],
+        "projects": [
+          "Interventoria tecnica y administrativa para la señalizacion de los colegios distritales en el marco de la emergencia sanitaria."
+        ],
+        "achievements": [
+          "Desarrollo de herramientas para automatización en la generacion masiva de informes",
+          "Reducción del 50% en tiempos de generación de informes mediante automatización",
+          "Creación de formatos estandarizados que mejoraron la trazabilidad",
+          "Implementación de análisis de datos para optimización de procesos",
+          "Control de toda la informacion de las actividades ejecutadas en tiempo real"
+        ]
+      },
+      {
+        "id": 3,
+        "company": "Consorcio Majuy",
+        "title": "Inspector de Interventoría",
+        "period": "2019 – 2020",
+        "location": "Cota",
+        "city": "Cundinamarca",
+        "summary": "Toma de muestras, control de actividades y elaboración de informes.",
+        "responsibilities": [
+          "Toma de muestras de materiales de construcción.",
+          "Control de actividades constructivas.",
+          "Elaboración de informes técnicos de interventoría."
+        ],
+        "projects": [
+          "Interventoria tecnica y administrativa para la construccion de 2kms de la via Guepi"
+        ],
+        "achievements": [
+          "Mantenimiento de estándares de calidad en toma de muestras",
+          "Desarrollo de herramientas para automatización de informes ",
+          "Generación de informes técnicos precisos y oportunos"
+        ]
+      },
+      {
+        "id": 4,
+        "company": "Vías y Construcciones / Consorcio Integral Bosa",
+        "title": "Auxiliar de Ingeniería",
+        "period": "2011 – 2018",
+        "location": "Bosa / Soacha",
+        "city": "Bogotá / Cundinamarca",
+        "summary": "Cálculo de cantidades, cortes de obra, entradas/salidas de almacén y manejo de SINCO–ADPRO.",
+        "responsibilities": [
+          "Cálculo de cantidades de obra.",
+          "Elaboración de cortes de obra mensuales.",
+          "Manejo de anticipos",
+          "Control de entradas y salidas de almacén.",
+          "Manejo especializado de SINCO–ADPRO."
+        ],
+        "projects": [
+          "Canalizacion del cuerpo de agua presente en el barrio San Mateo del municipio de Soacha",
+          "Mantenimiento y mejoramiento de las calles de la localidad de Bosa"
+        ],
+        "achievements": [
+          "7+ años de experiencia especializada en SINCO–ADPRO",
+          "Desarrollo de expertise en obras horizontales",
+          "Gestión eficiente de recursos de almacén"
+        ]
+      }
+    ],
+    "featured": {},
+    "references": {}
+  }
+}
